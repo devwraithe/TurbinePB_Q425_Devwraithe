@@ -1,2 +1,9 @@
+**/.anchor/
 **/target/
+**/*.rs.bk
+**/test-ledger/
+**/.DS_Store
 **/Cargo.lock
+**/.yarn/
+**/node_modules/
+**/yarn.lock
