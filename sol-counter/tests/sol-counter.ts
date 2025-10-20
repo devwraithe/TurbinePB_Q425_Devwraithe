@@ -27,7 +27,7 @@ describe("sol-counter", () => {
     console.log("Initialize counter: Txn signature", tx);
   });
 
-  it("Is increment!", async () => {
+  it("Increment counter", async () => {
     const tx = await program.methods
       .increment()
       .accounts({
