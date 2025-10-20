@@ -1,15 +1,20 @@
 [submodule "hello-solana"]
 	path = hello-solana
 	url = https://github.com/devwraithe/hello-solana.git
+	branch = master
 [submodule "sol-counter"]
 	path = sol-counter
 	url = https://github.com/devwraithe/sol-counter.git
+	branch = master
 [submodule "rng-game/hello-world"]
 	path = rng-game/hello-world
 	url = https://github.com/devwraithe/hello-world.git
+	branch = master
 [submodule "rng-game/rusty-guess"]
 	path = rng-game/rusty-guess
 	url = https://github.com/devwraithe/rusty-guess.git
+	branch = master
 [submodule "rng-game/rusty-counter"]
 	path = rng-game/rusty-counter
 	url = https://github.com/devwraithe/rusty-counter.git
+	branch = master
