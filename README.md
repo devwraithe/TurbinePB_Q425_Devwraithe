@@ -39,9 +39,3 @@ To pull the latest updates from all submodules:
 ```bash
 git submodule update --remote
 ```
-
-To add a new submodule (for a new project):
-
-```bash
-git submodule add <repo-url> <folder-name>
-```
