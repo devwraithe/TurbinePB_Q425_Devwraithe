@@ -16,7 +16,7 @@ Welcome to the central hub for my journey through the **Turbin3 Pre-Builders Coh
 ### ⚡ Solana
 - [**hello-solana**](https://github.com/devwraithe/hello-solana) — Minimal Solana “Hello, World!” program  
 - [**sol-counter**](https://github.com/devwraithe/sol-counter) — On-chain counter built with Anchor
-- [**piggy-sol**](https://github.com/devwraithe/piggy-sol) - Advanced (ADV) assignment
+- [**piggy-sol**](https://github.com/devwraithe/piggy-sol) -  On-chain piggybank program (PB ADV Task 1)
 
 
 <!--- ## 🗓️ Week 2 - Coming Soon
