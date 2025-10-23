@@ -18,3 +18,6 @@
 	path = rng-game/rusty-counter
 	url = https://github.com/devwraithe/rusty-counter.git
 	branch = master
+[submodule "piggy-sol"]
+	path = piggy-sol
+	url = https://github.com/devwraithe/piggy-sol.git
