@@ -4,7 +4,7 @@ Welcome to the central hub for my journey through the **Turbin3 Pre-Builders Coh
 
 > _From Rust fundamentals to Solana programs — one project at a time._
 
-## 🗓️ Week 1: Rust & Solana Foundations
+## 🗓️ Week 1
 
 ### 🦀 Rust
 
@@ -18,18 +18,18 @@ Welcome to the central hub for my journey through the **Turbin3 Pre-Builders Coh
 - [**sol-counter**](https://github.com/devwraithe/sol-counter) — On-chain counter built with Anchor
 - [**piggy-sol**](https://github.com/devwraithe/piggy-sol) — On-chain piggybank program (PB ADV Task 1)
 
-## 🗓️ Week 2: SPL Tokens & Program Architecture
+## 🗓️ Week 2
 
 - [**moneta**](https://github.com/devwraithe/moneta) — SPL token minting program
 - [**aegis**](https://github.com/devwraithe/aegis) — Secure vault program for token deposits
 - [**themis**](https://github.com/devwraithe/themis) — Escrow program for trustless token swaps
 - [**mogimis-adv**](https://github.com/devwraithe/mogimis-adv) — Advanced integration combining SPL mint, vault, and escrow
 
-## 🗓️ Week 3: NFT Development
+## 🗓️ Week 3
 
 - [**moneta-nft**](https://github.com/devwraithe/moneta-nft) — NFT minting program with metadata
 
-## 🗓️ Week 4: NFT Marketplace & Advanced Concepts
+## 🗓️ Week 4
 
 - [**proteus**](https://github.com/devwraithe/proteus) — NFT escrow and marketplace program
 
